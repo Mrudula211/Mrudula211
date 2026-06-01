@@ -1,268 +1,120 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Mrudula%20Gharat&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20I%20build%20AI%20that%20works%20in%20the%20real%20world&descAlignY=60&descSize=17&animation=fadeIn"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,23,28,32&height=250&section=header&text=Mrudula%20Gharat&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Building%20AI%20for%20the%20Real%20World&descSize=20&descAlignY=65" width="100%"/>
 </div>
 
 <div align="center">
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Vision+%E2%80%A2+Industrial+AI+%E2%80%A2+Healthcare+AI;Drone-based+rack+inspection+%E2%80%94+RAMS+Digital;CAD+automation+for+water+infrastructure+%E2%80%94+SALT;AI+that+doesn't+just+predict+%E2%80%94+AI+that+explains+itself" alt="Typing SVG" /></a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://mrudula211.github.io/Mrudula.devportfolio/)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
-![Visitors](https://komarev.com/ghpvc/?username=mrudula211&color=38bdf8&style=flat-square&label=visitors)
-
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Vision+%E2%80%A2+Industrial+AI+%E2%80%A2+Healthcare+AI;AI+that+doesn't+just+predict+%E2%80%94+AI+that+explains+itself;Drones+%E2%80%A2+YOLO+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/mrudulag-92a394267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mrudula211.github.io/Mrudula.devportfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mrudula.gharat@universalai.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/><br/>
+</div>
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
-### Hey, I'm Mrudula
+## 🧠 The Engineering Philosophy
 
-I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic. 
+> **Most AI projects end at "it works on test data." Mine don't.**<br/>
+> *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it?*
 
-So I went and built systems that:
+My architecture is driven by three core pillars:
+1. <img src="https://img.shields.io/badge/Real--World%20Reliability-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8" valign="middle"/> Accuracy, benchmarks, and deployment on edge devices.
+2. <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6" valign="middle"/> Human-in-the-loop, uncertainty estimation, and transparency.
+3. <img src="https://img.shields.io/badge/Graceful%20Failure-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981" valign="middle"/> Confidence thresholds, fallback logic, and edge case handling.
 
-- ![factory](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=opencv&logoColor=38bdf8) Inspect warehouse racks using drones + YOLO *(real deployment)*
-- ![cad](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) Generate full CAD drawings from plain English *(IS-code compliant)*
-- ![health](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=pytorch&logoColor=38bdf8) Audit their own confidence before making medical diagnoses
-- ![code](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=git&logoColor=38bdf8) Mentor developers with explainable code feedback
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
-I'm at **RAMS Digital** right now, doing this for real infrastructure.
+## 🚀 What I'm Building Now
 
-<br clear="right"/>
-
----
-
-## ![thinking](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6) How I Think About AI
-
-Most AI projects end at **"it works on test data."** Mine don't.
-
-I ask: *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
-
-That's why my projects are built around three questions:
-
-> ![q1](https://img.shields.io/badge/Does%20it%20work%3F-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8) &nbsp; Accuracy, benchmarks, real data
->
-> ![q2](https://img.shields.io/badge/Does%20it%20explain%20itself%3F-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6) &nbsp; XAI, uncertainty estimation, human-in-the-loop
->
-> ![q3](https://img.shields.io/badge/Does%20it%20fail%20gracefully%3F-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981) &nbsp; Edge cases, confidence thresholds, fallback logic
-
----
-
-## ![wip](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=hammer&logoColor=38bdf8) What I'm Building Now
-
-### ![cv](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=opencv&logoColor=white) AI Rack Inspection System &nbsp;`@ RAMS Digital`
-> *Drones fly, YOLO sees, humans stay safe.*
-
-Warehouse racks fail silently — until they don't. I'm building the CV pipeline that catches it first.
-
-```text
-INPUT  →  Drone-captured imagery of warehouse racks
-MODEL  →  YOLO-based multi-class object + defect detection
-OUTPUT →  [GREEN] Safe  |  [AMBER] Repair in 4 weeks  |  [RED] Unload immediately
-```
-
-Detects: `dents` · `bends` · `cracks` · `beam damage` · `protector issues` · `arrangement faults`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-
----
-
-### ![salt](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=autodesk&logoColor=white) SALT — Structural AI Layout & Transformation &nbsp;`@ RAMS Digital`
-> *"Design a 2MLD water treatment plant" → full CAD package in minutes.*
-
-Engineers used to spend days drafting. SALT takes a natural language requirement and spits out fully annotated, IS-code-compliant drawings.
-
-```text
-"Design a 2 MLD WTP for 50,000 people"
-         ↓  LLM parses intent
-         ↓  Hydraulic sizing engine
-         ↓  CAD generation (ezdxf)
-         ↓  Compliance validation
-OUTPUT: DXF · DWG · PDF · SVG
-```
-
-**My contributions:** CAD engine · DXF pipeline · hydraulic sizing · QA framework · LLM design synthesis
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20Opus-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## ![projects](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=folder-open&logoColor=8b5cf6) Past Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ![mediscopic](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=pytorch&logoColor=white) MediScopic-BC
-**Novel Dual-Brain architecture for breast cancer screening**
-
-Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing *when not to trust the model* matters more than accuracy alone.
-
-- Brain-1: ResNet CNN → **84.84% val accuracy**
-- Brain-2: Reliability auditor → `Certain` / `Uncertain`
-- Human-in-the-loop by design
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XAI](https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ![codementor](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=git&logoColor=white) CodeMentor AI
-**AI developer coaching with a custom DevScore**
-
-Not another linter. An AI coach that explains *why* your code is good or bad, scores it 0–100, and tells you how to grow.
-
-- DevScore: readability + modularity + best practices
-- Transparent over black-box
-- Full-stack delivery
-
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ![karmas](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=chatbot&logoColor=white) KARMAS – SIH 2025
-**Healthcare AI for migrant workers**
-
-Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ![research](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=researchgate&logoColor=white) AI for Sustainable Packaging
-**Research contribution**
-
-Literature review and data analysis on AI-driven sustainability solutions in packaging design.
-
-<br/>
-
-![Research](https://img.shields.io/badge/Published%20Research-10B981?style=flat-square&logo=researchgate&logoColor=white)
-
-</td>
-</tr>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Rack Inspection System</h3>
+      <p align="center"><i>Drones fly, YOLO sees, humans stay safe.</i></p>
+      <hr/>
+      <b>Context:</b> Warehouse racks fail silently. I'm building a CV pipeline using Drones and YOLO to catch defects before they cause collapses.<br/><br/>
+      <b>Detects:</b> <code>dents</code> <code>bends</code> <code>cracks</code> <code>beam damage</code><br/><br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">SALT (Structural AI Layout)</h3>
+      <p align="center"><i>"Design a 2MLD water plant" → full CAD in minutes.</i></p>
+      <hr/>
+      <b>Context:</b> SALT takes natural language requirements and synthesizes fully annotated, IS-code-compliant DXF engineering drawings.<br/><br/>
+      <b>Role:</b> CAD engine, DXF pipeline, hydraulic sizing, LLM synthesis.<br/><br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
-## ![stack](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=stackshare&logoColor=38bdf8) My Stack
-
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Computer Vision & Models**<br/>
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![ResNet](https://img.shields.io/badge/ResNet-1e293b?style=flat-square&logo=pytorch&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-1e293b?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Generative AI & LLMs**<br/>
-![Claude Opus](https://img.shields.io/badge/Claude%20Opus-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square&logoColor=white)
-
-**Full-Stack & Data**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Engineering & Tools**<br/>
-![CAD Automation](https://img.shields.io/badge/CAD%20Automation-06B6D4?style=flat-square&logo=autodesk&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## ![activity](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github&logoColor=38bdf8) GitHub Activity
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <!-- Public server temporarily down: <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/> -->
+  <p><strong>Languages & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,next,tailwind,nodejs,fastapi&perline=10" />
+  <br/><br/>
+  <p><strong>AI, ML & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn,git,github,vscode,postgres,sqlite&perline=10" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
+
+## 📂 Past Projects & Milestones
+
+<details>
+  <summary><b>🔥 MediScopic-BC (Dual-Brain Healthcare AI)</b></summary>
+  <blockquote>Two separate neural networks — one diagnoses (ResNet CNN), one audits the diagnosis for reliability. Because in healthcare, knowing when not to trust the model matters.</blockquote>
+</details>
+
+<details>
+  <summary><b>👨‍💻 CodeMentor AI</b></summary>
+  <blockquote>AI developer coaching with a custom DevScore that grades readability and modularity, explaining exactly *why* your code is good or bad.</blockquote>
+</details>
+
+<details>
+  <summary><b>🏥 KARMAS (SIH 2025)</b></summary>
+  <blockquote>Context-aware conversational AI with session-persistent memory. Built for migrant workers who can't afford to repeat their medical history every visit.</blockquote>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
+  <br/><br/>
   <img height="160" src="./streak.svg" alt="GitHub Streak" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
-## ![milestones](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github-actions&logoColor=38bdf8) Milestones
-
-| | |
-|---|---|
-| ![ind](https://img.shields.io/badge/-Industrial%20CV-1e293b?style=flat-square&logo=opencv&logoColor=38bdf8) | Building production-grade rack inspection system at RAMS Digital |
-| ![cad](https://img.shields.io/badge/-CAD%20Automation-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) | Co-developing SALT — AI-to-engineering-drawing pipeline in production |
-| ![arch](https://img.shields.io/badge/-Novel%20Architecture-1e293b?style=flat-square&logo=diagram&logoColor=8b5cf6) | Invented Dual-Brain AI design for clinical reliability |
-| ![sih](https://img.shields.io/badge/-Smart%20India%20Hackathon%202025-1e293b?style=flat-square&logo=hackthebox&logoColor=10b981) | Built KARMAS healthcare AI system |
-| ![award](https://img.shields.io/badge/-Certificate%20of%20Appreciation-1e293b?style=flat-square&logo=award&logoColor=f59e0b) | AI Odyssey 1.0 (2025) |
-| ![outreach](https://img.shields.io/badge/-Rural%20AI%20Outreach-1e293b?style=flat-square&logo=openai&logoColor=10b981) | Led AI education sessions at government schools — SMART Project |
-| ![paper](https://img.shields.io/badge/-Research%20Contributor-1e293b?style=flat-square&logo=researchgate&logoColor=38bdf8) | AI for Sustainable Packaging |
-| ![event](https://img.shields.io/badge/-Event%20Organizer-1e293b?style=flat-square&logo=eventbrite&logoColor=8b5cf6) | Co-organized AI Odyssey & Hawkthon @ UAI University |
-
----
-
-## ![open](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=handshake&logoColor=38bdf8) Open To
+## 🤝 Open To Collaborations
 
 <div align="center">
-
-![r1](https://img.shields.io/badge/AI%2FML%20Research%20Internships-1e293b?style=for-the-badge&logo=academia&logoColor=38bdf8)
-![r2](https://img.shields.io/badge/Applied%20AI%20Roles-1e293b?style=for-the-badge&logo=robot-framework&logoColor=8b5cf6)
-![r3](https://img.shields.io/badge/Healthcare%20AI%20Collaborations-1e293b?style=for-the-badge&logo=pytorch&logoColor=f43f5e)
-![r4](https://img.shields.io/badge/Industrial%20CV%20Projects-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
-![r5](https://img.shields.io/badge/Open%20Source%20AI-1e293b?style=for-the-badge&logo=github&logoColor=white)
-
-<br/><br/>
-
-[![Let's talk](https://img.shields.io/badge/Let's%20build%20something-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
-[![Connect](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
-
+  <img src="https://img.shields.io/badge/AI%2FML%20Research%20Internships-1e293b?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Applied%20AI%20Roles-1e293b?style=for-the-badge&logo=robot-framework&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Industrial%20CV%20Projects-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
-
-*AI that explains itself. Systems that fail safely. Code that ships.*
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
+  <i>AI that explains itself. Systems that fail safely. Code that ships.</i>
 </div>
