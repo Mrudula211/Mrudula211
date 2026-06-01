@@ -155,13 +155,52 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-  <p><strong>Languages & Frameworks</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,next,tailwind,nodejs,fastapi&perline=10" />
-  <br/><br/>
-  <p><strong>AI, ML & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,scikitlearn,git,github,vscode,postgres,sqlite&perline=10" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="30%" align="right"><b>💻 Languages</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>🧠 Computer Vision</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>🤖 GenAI & LLMs</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Claude_Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>⚙️ Backend & Frontend</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="right"><b>🧰 Tools & Data</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
