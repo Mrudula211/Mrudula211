@@ -35,7 +35,7 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 🧠 How I Think About AI
+## How I Think About AI
 
 > **Most AI projects end at "it works on test data." Mine don't.**<br/>
 > *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
@@ -47,7 +47,7 @@ My architecture is driven by three core pillars:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 🚀 What I'm Building Now
+## What I'm Building Now
 
 <table width="100%" align="center">
   <tr>
@@ -80,7 +80,7 @@ My architecture is driven by three core pillars:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 📂 Past Projects
+## Past Projects
 
 <table>
 <tr>
@@ -152,11 +152,11 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table width="100%" align="center">
   <tr>
-    <td width="30%" align="right"><b>💻 Languages</b></td>
+    <td width="30%" align="right"><b>Languages</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -165,7 +165,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
     </td>
   </tr>
   <tr>
-    <td width="30%" align="right"><b>🧠 Computer Vision</b></td>
+    <td width="30%" align="right"><b>Computer Vision</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -174,7 +174,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
     </td>
   </tr>
   <tr>
-    <td width="30%" align="right"><b>🤖 GenAI & LLMs</b></td>
+    <td width="30%" align="right"><b>GenAI & LLMs</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Claude_Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -182,7 +182,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
     </td>
   </tr>
   <tr>
-    <td width="30%" align="right"><b>⚙️ Backend & Frontend</b></td>
+    <td width="30%" align="right"><b>Backend & Frontend</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -191,7 +191,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
     </td>
   </tr>
   <tr>
-    <td width="30%" align="right"><b>🧰 Tools & Data</b></td>
+    <td width="30%" align="right"><b>Tools & Data</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -203,7 +203,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 🏆 Milestones & Achievements
+## Milestones & Achievements
 
 | | |
 |---|---|
@@ -218,7 +218,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
@@ -229,7 +229,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
-## 🤝 Open To Collaborations
+## Open To Collaborations
 
 <div align="center">
   <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=googlescholar&logoColor=38bdf8" valign="middle"/> **AI/ML Research Internships** &nbsp;&nbsp;&nbsp;
