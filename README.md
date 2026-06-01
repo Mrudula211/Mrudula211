@@ -16,7 +16,7 @@
   <br/><br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ### Hey, I'm Mrudula
 
@@ -33,7 +33,7 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## How I Think About AI
 
@@ -45,7 +45,7 @@ My architecture is driven by three core pillars:
 2. <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6" valign="middle"/> **Explainable AI (XAI):** Human-in-the-loop, uncertainty estimation, transparency.
 3. <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981" valign="middle"/> **Graceful Failure:** Edge cases, confidence thresholds, fallback logic.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## What I'm Building Now
 
@@ -78,7 +78,7 @@ My architecture is driven by three core pillars:
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## Past Projects
 
@@ -150,7 +150,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## Technical Arsenal
 
@@ -201,7 +201,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## Milestones & Achievements
 
@@ -216,7 +216,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 | <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=researchgate&logoColor=38bdf8" valign="middle"/> **Research Contributor** | AI for Sustainable Packaging |
 | <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=meetup&logoColor=8b5cf6" valign="middle"/> **Event Organizer** | Co-organized AI Odyssey & Hawkthon @ UAI University |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## GitHub Activity
 
@@ -227,7 +227,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
   <img height="160" src="./streak.svg" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
 ## Open To Collaborations
 
