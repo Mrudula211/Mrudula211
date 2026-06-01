@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://mrudula211.github.io/Mrudula.devportfolio/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
 ![Visitors](https://komarev.com/ghpvc/?username=mrudula211&color=38bdf8&style=flat-square&label=visitors)
 
 </div>
@@ -21,15 +21,16 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
 
-### Hey, I'm Mrudula 👋
+### Hey, I'm Mrudula
 
 I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic.
 
 So I went and built systems that:
-- 🏭 **Inspect warehouse racks** using drones + YOLO (real factory deployment)
-- 🏗️ **Generate full CAD engineering drawings** from plain English (IS-code compliant)
-- 🩺 **Audit their own confidence** before making medical diagnoses
-- 💬 **Mentor developers** with explainable code feedback
+
+- ![factory](https://img.shields.io/badge/-Inspect%20warehouse%20racks-1e293b?style=flat-square&logo=apache-spark&logoColor=38bdf8) using drones + YOLO *(real deployment)*
+- ![cad](https://img.shields.io/badge/-Generate%20full%20CAD%20drawings-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) from plain English *(IS-code compliant)*
+- ![health](https://img.shields.io/badge/-Audit%20their%20own%20confidence-1e293b?style=flat-square&logo=red-cross&logoColor=38bdf8) before making medical diagnoses
+- ![code](https://img.shields.io/badge/-Mentor%20developers-1e293b?style=flat-square&logo=visual-studio-code&logoColor=38bdf8) with explainable code feedback
 
 I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
@@ -37,26 +38,30 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 ---
 
-## 🔭 What I'm Working On
+## ![wip](https://img.shields.io/badge/What%20I'm%20Building%20Now-0d1117?style=flat-square&logo=hammer&logoColor=38bdf8)
 
-### 🏭 AI Rack Inspection System `@ RAMS Digital`
+### ![cv](https://img.shields.io/badge/AI%20Rack%20Inspection%20System-1e293b?style=flat-square&logo=opencv&logoColor=white) &nbsp;`@ RAMS Digital`
 > *Drones fly, YOLO sees, humans stay safe.*
 
 Warehouse racks fail silently — until they don't. I'm building the CV pipeline that catches it first.
 
 ```
 INPUT  →  Drone-captured imagery of warehouse racks
-MODEL  →  YOLO-based multi-class object + defect detection  
-OUTPUT →  🟢 Safe  |  🟡 Repair in 4 weeks  |  🔴 Unload immediately
+MODEL  →  YOLO-based multi-class object + defect detection
+OUTPUT →  [GREEN] Safe  |  [AMBER] Repair in 4 weeks  |  [RED] Unload immediately
 ```
 
 Detects: `dents` · `bends` · `cracks` · `beam damage` · `protector issues` · `arrangement faults`
 
-`Python` `YOLO` `OpenCV` `PyTorch` `ONNX` `Edge AI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ---
 
-### 🏗️ SALT — Structural AI Layout & Transformation `@ RAMS Digital`
+### ![salt](https://img.shields.io/badge/SALT%20—%20Structural%20AI%20Layout%20%26%20Transformation-1e293b?style=flat-square&logo=autodesk&logoColor=white) &nbsp;`@ RAMS Digital`
 > *"Design a 2MLD water treatment plant" → full CAD package in minutes.*
 
 Engineers used to spend days drafting. SALT takes a natural language requirement and spits out fully annotated, IS-code-compliant drawings.
@@ -72,17 +77,22 @@ OUTPUT: DXF · DWG · PDF · SVG
 
 **My contributions:** CAD engine · DXF pipeline · hydraulic sizing · QA framework · LLM design synthesis
 
-`FastAPI` `React` `Next.js` `ezdxf` `Claude Opus` `Three.js` `Tailwind`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%20Opus-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-## 🧪 Past Projects I'm Proud Of
+## ![projects](https://img.shields.io/badge/Past%20Projects-0d1117?style=flat-square&logo=folder-open&logoColor=8b5cf6)
 
 <table>
 <tr>
 <td width="50%">
 
-### 🩺 MediScopic-BC
+### ![mediscopic](https://img.shields.io/badge/MediScopic--BC-1e293b?style=flat-square&logo=redcross&logoColor=white)
 **Novel Dual-Brain architecture for breast cancer screening**
 
 Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing *when not to trust the model* matters more than accuracy alone.
@@ -91,12 +101,14 @@ Two separate neural networks — one diagnoses, one audits the diagnosis. Becaus
 - Brain-2: Reliability auditor → `Certain` / `Uncertain`
 - Human-in-the-loop by design
 
-`Python` `ResNet` `Deep Learning` `XAI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XAI](https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 💻 CodeMentor AI
+### ![codementor](https://img.shields.io/badge/CodeMentor%20AI-1e293b?style=flat-square&logo=visualstudiocode&logoColor=white)
 **AI developer coaching with a custom DevScore**
 
 Not another linter. An AI coach that explains *why* your code is good or bad, scores it 0–100, and tells you how to grow.
@@ -105,29 +117,32 @@ Not another linter. An AI coach that explains *why* your code is good or bad, sc
 - Transparent over black-box
 - Full-stack delivery
 
-`React` `FastAPI` `Gemini AI`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏥 KARMAS *(SIH 2025)*
+### ![karmas](https://img.shields.io/badge/KARMAS%20–%20SIH%202025-1e293b?style=flat-square&logo=chatbot&logoColor=white)
 **Healthcare AI for migrant workers**
 
 Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
 
-`Conversational AI` `Prompt Engineering` `Python`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 📦 AI for Sustainable Packaging
+### ![research](https://img.shields.io/badge/AI%20for%20Sustainable%20Packaging-1e293b?style=flat-square&logo=researchgate&logoColor=white)
 **Research contribution**
 
 Literature review and data analysis on AI-driven sustainability solutions in packaging design.
 
-`Research` `Data Analysis`
+![Research](https://img.shields.io/badge/Published%20Research-10B981?style=flat-square&logo=researchgate&logoColor=white)
 
 </td>
 </tr>
@@ -135,7 +150,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 ---
 
-## ⚙️ My Stack
+## ![stack](https://img.shields.io/badge/My%20Stack-0d1117?style=flat-square&logo=stackshare&logoColor=38bdf8)
 
 ```yaml
 languages:    [Python, JavaScript, TypeScript, SQL, HTML, CSS]
@@ -162,7 +177,7 @@ tools:        [Git, GitHub, VS Code]
 
 ---
 
-## 📊 GitHub Activity
+## ![activity](https://img.shields.io/badge/GitHub%20Activity-0d1117?style=flat-square&logo=github&logoColor=38bdf8)
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
@@ -171,7 +186,7 @@ tools:        [Git, GitHub, VS Code]
 
 ---
 
-## 🧭 How I Think About AI
+## ![thinking](https://img.shields.io/badge/How%20I%20Think%20About%20AI-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6)
 
 Most AI projects end at **"it works on test data."**
 
@@ -181,36 +196,40 @@ I ask: *Will this hold up when a doctor relies on it? When a warehouse worker's 
 
 That's why my projects are built around three questions:
 
-> **Does it work?** → Accuracy, benchmarks, real data  
-> **Does it explain itself?** → XAI, uncertainty estimation, human-in-the-loop  
-> **Does it fail gracefully?** → Edge case handling, confidence thresholds, fallback logic  
+> ![q1](https://img.shields.io/badge/Does%20it%20work%3F-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8) &nbsp; Accuracy, benchmarks, real data
+>
+> ![q2](https://img.shields.io/badge/Does%20it%20explain%20itself%3F-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6) &nbsp; XAI, uncertainty estimation, human-in-the-loop
+>
+> ![q3](https://img.shields.io/badge/Does%20it%20fail%20gracefully%3F-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981) &nbsp; Edge cases, confidence thresholds, fallback logic
 
 ---
 
-## 🏆 Milestones
+## ![milestones](https://img.shields.io/badge/Milestones-0d1117?style=flat-square&logo=github-actions&logoColor=38bdf8)
 
 | | |
 |---|---|
-| 🏭 | Building production-grade industrial CV at RAMS Digital |
-| 🏗️ | Co-developing AI CAD automation deployed for real engineering workflows |
-| 🧠 | Invented Dual-Brain AI architecture for clinical reliability |
-| 🛡️ | Smart India Hackathon 2025 participant — KARMAS healthcare system |
-| 🎯 | Certificate of Appreciation — AI Odyssey 1.0 (2025) |
-| 🌍 | Led AI education sessions at rural government schools (SMART Project) |
-| ✍️ | Research contributor — AI for Sustainable Packaging |
-| 🎪 | Co-organized AI Odyssey & Hawkthon hackathons at UAI University |
+| ![ind](https://img.shields.io/badge/-Industrial%20CV-1e293b?style=flat-square&logo=opencv&logoColor=38bdf8) | Building production-grade rack inspection system at RAMS Digital |
+| ![cad](https://img.shields.io/badge/-CAD%20Automation-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) | Co-developing SALT — AI-to-engineering-drawing pipeline in production |
+| ![arch](https://img.shields.io/badge/-Novel%20Architecture-1e293b?style=flat-square&logo=diagram&logoColor=8b5cf6) | Invented Dual-Brain AI design for clinical reliability |
+| ![sih](https://img.shields.io/badge/-Smart%20India%20Hackathon%202025-1e293b?style=flat-square&logo=hackthebox&logoColor=10b981) | Built KARMAS healthcare AI system |
+| ![award](https://img.shields.io/badge/-Certificate%20of%20Appreciation-1e293b?style=flat-square&logo=award&logoColor=f59e0b) | AI Odyssey 1.0 (2025) |
+| ![outreach](https://img.shields.io/badge/-Rural%20AI%20Outreach-1e293b?style=flat-square&logo=openai&logoColor=10b981) | Led AI education sessions at government schools — SMART Project |
+| ![paper](https://img.shields.io/badge/-Research%20Contributor-1e293b?style=flat-square&logo=researchgate&logoColor=38bdf8) | AI for Sustainable Packaging |
+| ![event](https://img.shields.io/badge/-Event%20Organizer-1e293b?style=flat-square&logo=eventbrite&logoColor=8b5cf6) | Co-organized AI Odyssey & Hawkthon @ UAI University |
 
 ---
 
-## 📬 Open To
+## ![open](https://img.shields.io/badge/Open%20To-0d1117?style=flat-square&logo=handshake&logoColor=38bdf8)
 
 <div align="center">
 
-```
-🔬 AI/ML Research Internships      💼 Applied AI Roles
-🏥 Healthcare AI Collaborations     🏭 Industrial Computer Vision Projects  
-🤝 Open Source AI Projects          🎤 Speaking & Workshop Opportunities
-```
+![r1](https://img.shields.io/badge/AI%2FML%20Research%20Internships-1e293b?style=for-the-badge&logo=academia&logoColor=38bdf8)
+![r2](https://img.shields.io/badge/Applied%20AI%20Roles-1e293b?style=for-the-badge&logo=robot-framework&logoColor=8b5cf6)
+![r3](https://img.shields.io/badge/Healthcare%20AI%20Collaborations-1e293b?style=for-the-badge&logo=redcross&logoColor=f43f5e)
+![r4](https://img.shields.io/badge/Industrial%20CV%20Projects-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
+![r5](https://img.shields.io/badge/Open%20Source%20AI-1e293b?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
 
 [![Let's talk](https://img.shields.io/badge/Let's%20build%20something-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
 [![Connect](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
