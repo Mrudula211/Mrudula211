@@ -38,9 +38,9 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 ---
 
-## ![wip](https://img.shields.io/badge/What%20I'm%20Building%20Now-0d1117?style=flat-square&logo=hammer&logoColor=38bdf8)
+## ![wip](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=hammer&logoColor=38bdf8) What I'm Building Now
 
-### ![cv](https://img.shields.io/badge/AI%20Rack%20Inspection%20System-1e293b?style=flat-square&logo=opencv&logoColor=white) &nbsp;`@ RAMS Digital`
+### ![cv](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=opencv&logoColor=white) AI Rack Inspection System &nbsp;`@ RAMS Digital`
 > *Drones fly, YOLO sees, humans stay safe.*
 
 Warehouse racks fail silently — until they don't. I'm building the CV pipeline that catches it first.
@@ -61,7 +61,7 @@ Detects: `dents` · `bends` · `cracks` · `beam damage` · `protector issues` �
 
 ---
 
-### ![salt](https://img.shields.io/badge/SALT%20—%20Structural%20AI%20Layout%20%26%20Transformation-1e293b?style=flat-square&logo=autodesk&logoColor=white) &nbsp;`@ RAMS Digital`
+### ![salt](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=autodesk&logoColor=white) SALT — Structural AI Layout & Transformation &nbsp;`@ RAMS Digital`
 > *"Design a 2MLD water treatment plant" → full CAD package in minutes.*
 
 Engineers used to spend days drafting. SALT takes a natural language requirement and spits out fully annotated, IS-code-compliant drawings.
@@ -86,13 +86,13 @@ OUTPUT: DXF · DWG · PDF · SVG
 
 ---
 
-## ![projects](https://img.shields.io/badge/Past%20Projects-0d1117?style=flat-square&logo=folder-open&logoColor=8b5cf6)
+## ![projects](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=folder-open&logoColor=8b5cf6) Past Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### ![mediscopic](https://img.shields.io/badge/MediScopic--BC-1e293b?style=flat-square&logo=redcross&logoColor=white)
+### ![mediscopic](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=pytorch&logoColor=white) MediScopic-BC
 **Novel Dual-Brain architecture for breast cancer screening**
 
 Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing *when not to trust the model* matters more than accuracy alone.
@@ -108,7 +108,7 @@ Two separate neural networks — one diagnoses, one audits the diagnosis. Becaus
 </td>
 <td width="50%">
 
-### ![codementor](https://img.shields.io/badge/CodeMentor%20AI-1e293b?style=flat-square&logo=visualstudiocode&logoColor=white)
+### ![codementor](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=git&logoColor=white) CodeMentor AI
 **AI developer coaching with a custom DevScore**
 
 Not another linter. An AI coach that explains *why* your code is good or bad, scores it 0–100, and tells you how to grow.
@@ -126,7 +126,7 @@ Not another linter. An AI coach that explains *why* your code is good or bad, sc
 <tr>
 <td width="50%">
 
-### ![karmas](https://img.shields.io/badge/KARMAS%20–%20SIH%202025-1e293b?style=flat-square&logo=chatbot&logoColor=white)
+### ![karmas](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=chatbot&logoColor=white) KARMAS – SIH 2025
 **Healthcare AI for migrant workers**
 
 Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
@@ -137,7 +137,7 @@ Context-aware conversational AI with session-persistent memory. Built for people
 </td>
 <td width="50%">
 
-### ![research](https://img.shields.io/badge/AI%20for%20Sustainable%20Packaging-1e293b?style=flat-square&logo=researchgate&logoColor=white)
+### ![research](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=researchgate&logoColor=white) AI for Sustainable Packaging
 **Research contribution**
 
 Literature review and data analysis on AI-driven sustainability solutions in packaging design.
@@ -150,7 +150,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 ---
 
-## ![stack](https://img.shields.io/badge/My%20Stack-0d1117?style=flat-square&logo=stackshare&logoColor=38bdf8)
+## ![stack](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=stackshare&logoColor=38bdf8) My Stack
 
 ```yaml
 languages:    [Python, JavaScript, TypeScript, SQL, HTML, CSS]
@@ -177,7 +177,7 @@ tools:        [Git, GitHub, VS Code]
 
 ---
 
-## ![activity](https://img.shields.io/badge/GitHub%20Activity-0d1117?style=flat-square&logo=github&logoColor=38bdf8)
+## ![activity](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github&logoColor=38bdf8) GitHub Activity
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
@@ -186,7 +186,7 @@ tools:        [Git, GitHub, VS Code]
 
 ---
 
-## ![thinking](https://img.shields.io/badge/How%20I%20Think%20About%20AI-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6)
+## ![thinking](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6) How I Think About AI
 
 Most AI projects end at **"it works on test data."**
 
@@ -204,7 +204,7 @@ That's why my projects are built around three questions:
 
 ---
 
-## ![milestones](https://img.shields.io/badge/Milestones-0d1117?style=flat-square&logo=github-actions&logoColor=38bdf8)
+## ![milestones](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github-actions&logoColor=38bdf8) Milestones
 
 | | |
 |---|---|
@@ -219,7 +219,7 @@ That's why my projects are built around three questions:
 
 ---
 
-## ![open](https://img.shields.io/badge/Open%20To-0d1117?style=flat-square&logo=handshake&logoColor=38bdf8)
+## ![open](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=handshake&logoColor=38bdf8) Open To
 
 <div align="center">
 
