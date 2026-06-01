@@ -1,176 +1,219 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mrudula%20Gharat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Trustworthy%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Mrudula%20Gharat&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20I%20build%20AI%20that%20works%20in%20the%20real%20world&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Explainable+AI+%7C+Medical+AI+%7C+Dual-Brain+Architecture;Deep+Learning+%7C+CNNs+%7C+Uncertainty+Estimation;Ethical+AI+Engineer+in+the+Making+%F0%9F%9A%80;B.Tech+AI%26ML+%40+Universal+AI+University" alt="Typing SVG" /></a>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrudula%20Gharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrudula211.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://mrudula211.github.io/Mrudula.devportfolio/)
-[![Email](https://img.shields.io/badge/Email-mrudula.gharat%40universalai.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Vision+%E2%80%A2+Industrial+AI+%E2%80%A2+Healthcare+AI;Drone-based+rack+inspection+%E2%80%94+RAMS+Digital;CAD+automation+for+water+infrastructure+%E2%80%94+SALT;AI+that+doesn't+just+predict+%E2%80%94+AI+that+explains+itself" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://mrudula211.github.io/Mrudula.devportfolio/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
+![Visitors](https://komarev.com/ghpvc/?username=mrudula211&color=38bdf8&style=flat-square&label=visitors)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
 
-```python
-class MrudulaGharat:
-    name        = "Mrudula Gharat"
-    role        = "AI/ML Engineer | Researcher in Training"
-    university  = "Universal AI University, Mumbai (B.Tech CSE AI&ML, 2024–2028)"
-    current     = "AI Intern @ RAMS Inspect, Pune"
-    mission     = "Build AI that humans can TRUST — explainable, ethical, impactful."
+### Hey, I'm Mrudula 👋
 
-    focus_areas = [
-        "Explainable AI (XAI)",
-        "Medical Image Analysis",
-        "Uncertainty-Aware Deep Learning",
-        "Dual-Model Architectures",
-        "Responsible & Ethical AI"
-    ]
+I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic.
 
-    superpower  = "Turning complex AI into systems that doctors, users & teams can rely on."
+So I went and built systems that:
+- 🏭 **Inspect warehouse racks** using drones + YOLO (real factory deployment)
+- 🏗️ **Generate full CAD engineering drawings** from plain English (IS-code compliant)
+- 🩺 **Audit their own confidence** before making medical diagnoses
+- 💬 **Mentor developers** with explainable code feedback
+
+I'm at **RAMS Digital** right now, doing this for real infrastructure.
+
+<br clear="right"/>
+
+---
+
+## 🔭 What I'm Working On
+
+### 🏭 AI Rack Inspection System `@ RAMS Digital`
+> *Drones fly, YOLO sees, humans stay safe.*
+
+Warehouse racks fail silently — until they don't. I'm building the CV pipeline that catches it first.
+
+```
+INPUT  →  Drone-captured imagery of warehouse racks
+MODEL  →  YOLO-based multi-class object + defect detection  
+OUTPUT →  🟢 Safe  |  🟡 Repair in 4 weeks  |  🔴 Unload immediately
+```
+
+Detects: `dents` · `bends` · `cracks` · `beam damage` · `protector issues` · `arrangement faults`
+
+`Python` `YOLO` `OpenCV` `PyTorch` `ONNX` `Edge AI`
+
+---
+
+### 🏗️ SALT — Structural AI Layout & Transformation `@ RAMS Digital`
+> *"Design a 2MLD water treatment plant" → full CAD package in minutes.*
+
+Engineers used to spend days drafting. SALT takes a natural language requirement and spits out fully annotated, IS-code-compliant drawings.
+
+```
+"Design a 2 MLD WTP for 50,000 people"
+         ↓  LLM parses intent
+         ↓  Hydraulic sizing engine
+         ↓  CAD generation (ezdxf)
+         ↓  Compliance validation
+OUTPUT: DXF · DWG · PDF · SVG
+```
+
+**My contributions:** CAD engine · DXF pipeline · hydraulic sizing · QA framework · LLM design synthesis
+
+`FastAPI` `React` `Next.js` `ezdxf` `Claude Opus` `Three.js` `Tailwind`
+
+---
+
+## 🧪 Past Projects I'm Proud Of
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 MediScopic-BC
+**Novel Dual-Brain architecture for breast cancer screening**
+
+Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing *when not to trust the model* matters more than accuracy alone.
+
+- Brain-1: ResNet CNN → **84.84% val accuracy**
+- Brain-2: Reliability auditor → `Certain` / `Uncertain`
+- Human-in-the-loop by design
+
+`Python` `ResNet` `Deep Learning` `XAI`
+
+</td>
+<td width="50%">
+
+### 💻 CodeMentor AI
+**AI developer coaching with a custom DevScore**
+
+Not another linter. An AI coach that explains *why* your code is good or bad, scores it 0–100, and tells you how to grow.
+
+- DevScore: readability + modularity + best practices
+- Transparent over black-box
+- Full-stack delivery
+
+`React` `FastAPI` `Gemini AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 KARMAS *(SIH 2025)*
+**Healthcare AI for migrant workers**
+
+Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
+
+`Conversational AI` `Prompt Engineering` `Python`
+
+</td>
+<td width="50%">
+
+### 📦 AI for Sustainable Packaging
+**Research contribution**
+
+Literature review and data analysis on AI-driven sustainability solutions in packaging design.
+
+`Research` `Data Analysis`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ My Stack
+
+```yaml
+languages:    [Python, JavaScript, TypeScript, SQL, HTML, CSS]
+
+computer_vision:
+  models:     [YOLO, ResNet, CNNs]
+  libraries:  [OpenCV, PyTorch, Ultralytics]
+
+generative_ai:
+  llms:       [Claude Opus, Gemini AI]
+  techniques: [Prompt Engineering, LLM Agents, RAG, Sentence Transformers]
+
+full_stack:
+  backend:    [FastAPI, Flask, Node.js, Express]
+  frontend:   [React, Next.js, Tailwind CSS, Three.js]
+  data:       [NumPy, Pandas, Scikit-learn, SQLite]
+
+engineering:
+  cad:        [ezdxf, DXF/DWG generation, CAD automation]
+  deployment: [ONNX, Edge AI, ONNX Runtime]
+
+tools:        [Git, GitHub, VS Code]
 ```
 
 ---
 
-## 🚀 Flagship Projects
-
-### 🩺 MediScopic-BC — Dual-Brain AI for Breast Cancer Screening
-> *The project that defines my engineering philosophy*
-
-A novel **Dual-Brain Architecture** that separates *diagnosis* from *reliability assessment* — a design principle I invented to make clinical AI trustworthy.
-
-| Brain | Role | Tech |
-|-------|------|------|
-| 🔬 **Brain-1 (Diagnostician)** | Classifies histopathology images | ResNet CNN, 84.84% val accuracy |
-| 🛡️ **Brain-2 (Reliability Auditor)** | Audits predictions as `Certain` / `Uncertain` | Lightweight NN on Brain-1 embeddings |
-
-**Why it matters:** Flags uncertain predictions for human review → safer clinical deployment → lives saved.
-
-`Python` `ResNet` `Deep Learning` `Uncertainty Estimation` `XAI` `Medical Imaging`
-
----
-
-### 💻 CodeMentor AI — Explainable Developer Coaching
-An AI platform that evaluates Python code quality with a custom **DevScore (0–100)** across readability, modularity, and best practices — transparent scoring over black-box outputs.
-
-`Python` `ML` `Explainable AI` `Git` `Full-Stack Integration`
-
----
-
-### 🏥 KARMAS — Intelligent Healthcare Support System *(SIH 2025)*
-Context-aware conversational AI with **session-persistent memory** for migrant healthcare record management. Achieved improved accuracy through structured prompt engineering.
-
-`Conversational AI` `Prompt Engineering` `Python` `Smart India Hackathon 2025`
-
----
-
-## 🛠️ Tech Stack
+## 📊 GitHub Activity
 
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAI](https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=for-the-badge&logoColor=white)
-![Ethical AI](https://img.shields.io/badge/Ethical%20AI-10B981?style=for-the-badge&logoColor=white)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mrudula211&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=8b5cf6&currStreakLabel=38bdf8"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 How I Think About AI
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+Most AI projects end at **"it works on test data."**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrudula211&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
+Mine don't.
+
+I ask: *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
+
+That's why my projects are built around three questions:
+
+> **Does it work?** → Accuracy, benchmarks, real data  
+> **Does it explain itself?** → XAI, uncertainty estimation, human-in-the-loop  
+> **Does it fail gracefully?** → Edge case handling, confidence thresholds, fallback logic  
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🏆 Milestones
 
-| 🏅 Achievement | Details |
+| | |
 |---|---|
-| 🥇 **Certificate of Appreciation** | AI Odyssey 1.0 (2025) |
-| 🏗️ **Smart India Hackathon 2025** | Built KARMAS healthcare AI system |
-| 🎯 **Event Organizer & Graphic Designer** | AI Odyssey Tech Event |
-| 🔬 **Research Contributor** | AI for Sustainable Packaging — literature review & data analysis |
-| 🌍 **SMART Project (Group Leader)** | AI education at rural government schools |
-| 🧬 **AI Cell Member** | Universal AI University Research Vertical |
+| 🏭 | Building production-grade industrial CV at RAMS Digital |
+| 🏗️ | Co-developing AI CAD automation deployed for real engineering workflows |
+| 🧠 | Invented Dual-Brain AI architecture for clinical reliability |
+| 🛡️ | Smart India Hackathon 2025 participant — KARMAS healthcare system |
+| 🎯 | Certificate of Appreciation — AI Odyssey 1.0 (2025) |
+| 🌍 | Led AI education sessions at rural government schools (SMART Project) |
+| ✍️ | Research contributor — AI for Sustainable Packaging |
+| 🎪 | Co-organized AI Odyssey & Hawkthon hackathons at UAI University |
 
 ---
 
-## 📜 Certifications
+## 📬 Open To
 
 <div align="center">
 
-🟣 **Google Cloud** — Introduction to Generative AI &nbsp;|&nbsp;
-🟢 **edX** — Climate Change: Carbon Capture & Storage
-
-🔵 **AI Meets Quantum** — Future of Communication &nbsp;|&nbsp;
-🟠 **Mastercard** — Cybersecurity Simulation
-
-🟡 **Skyscanner** — Front-End Engineering Simulation &nbsp;|&nbsp;
-⚪ **Deep Dive into R Programming**
-
-</div>
-
----
-
-## 💡 My Design Philosophy
-
-> *"Most AI systems tell you* ***what*** *— I build systems that tell you* ***why*** *and* ***how confident*** *they are."*
-
-I believe the next frontier isn't just more accurate models — it's **AI systems that earn trust**. Every project I build is guided by three pillars:
-
 ```
-🔍 EXPLAINABILITY  →  Can a human understand WHY the model decided this?
-🛡️ RELIABILITY     →  Does the model KNOW when it doesn't know?
-⚖️ ETHICS          →  Would deploying this cause harm? How do we prevent it?
+🔬 AI/ML Research Internships      💼 Applied AI Roles
+🏥 Healthcare AI Collaborations     🏭 Industrial Computer Vision Projects  
+🤝 Open Source AI Projects          🎤 Speaking & Workshop Opportunities
 ```
 
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-I'm actively seeking **research internships**, **AI/ML roles**, and **collaborative projects** in:
-- Medical AI & Healthcare Tech
-- Explainable & Ethical AI Research
-- Applied Deep Learning Systems
-
-**Let's build AI that the world can trust. 🤝**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrudulag-92a394267)
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-Portfolio-8B5CF6?style=for-the-badge&logo=vercel)](https://mrudula211.github.io/Mrudula.devportfolio/)
-[![Email](https://img.shields.io/badge/Email%20Me-mrudula.gharat%40universalai.in-EA4335?style=for-the-badge&logo=gmail)](mailto:mrudula.gharat@universalai.in)
+[![Let's talk](https://img.shields.io/badge/Let's%20build%20something-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudula.gharat@universalai.in)
+[![Connect](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudulag-92a394267)
 
 </div>
 
@@ -178,10 +221,8 @@ I'm actively seeking **research internships**, **AI/ML roles**, and **collaborat
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
 
-*"Trustworthy AI isn't a constraint — it's the goal."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrudula211&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+*AI that explains itself. Systems that fail safely. Code that ships.*
 
 </div>
