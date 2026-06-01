@@ -180,7 +180,7 @@ tools:        [Git, GitHub, VS Code]
 ## ![activity](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=github&logoColor=38bdf8) GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
+  <!-- Public server temporarily down: <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/> -->
   <img height="160" src="./streak.svg" alt="GitHub Streak" />
 </div>
 
