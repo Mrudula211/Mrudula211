@@ -209,12 +209,12 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 |---|---|
 | <img src="https://img.shields.io/badge/-Industrial%20CV-1e293b?style=for-the-badge&logo=opencv&logoColor=38bdf8"/> | Building production-grade rack inspection system at RAMS Digital |
 | <img src="https://img.shields.io/badge/-CAD%20Automation-1e293b?style=for-the-badge&logo=autodesk&logoColor=38bdf8"/> | Co-developing SALT — AI-to-engineering-drawing pipeline in production |
-| <img src="https://img.shields.io/badge/-Novel%20Architecture-1e293b?style=for-the-badge&logo=diagram&logoColor=8b5cf6"/> | Invented Dual-Brain AI design for clinical reliability |
+| <img src="https://img.shields.io/badge/-Novel%20Architecture-1e293b?style=for-the-badge&logo=apachespark&logoColor=8b5cf6"/> | Invented Dual-Brain AI design for clinical reliability |
 | <img src="https://img.shields.io/badge/-SIH%202025-1e293b?style=for-the-badge&logo=hackthebox&logoColor=10b981"/> | Built KARMAS healthcare AI system |
-| <img src="https://img.shields.io/badge/-Certificate%20of%20Appreciation-1e293b?style=for-the-badge&logo=award&logoColor=f59e0b"/> | AI Odyssey 1.0 (2025) |
-| <img src="https://img.shields.io/badge/-Rural%20AI%20Outreach-1e293b?style=for-the-badge&logo=openai&logoColor=10b981"/> | Led AI education sessions at government schools — SMART Project |
+| <img src="https://img.shields.io/badge/-Certificate%20of%20Appreciation-1e293b?style=for-the-badge&logo=kaggle&logoColor=f59e0b"/> | AI Odyssey 1.0 (2025) |
+| <img src="https://img.shields.io/badge/-Rural%20AI%20Outreach-1e293b?style=for-the-badge&logo=jupyter&logoColor=10b981"/> | Led AI education sessions at government schools — SMART Project |
 | <img src="https://img.shields.io/badge/-Research%20Contributor-1e293b?style=for-the-badge&logo=researchgate&logoColor=38bdf8"/> | AI for Sustainable Packaging |
-| <img src="https://img.shields.io/badge/-Event%20Organizer-1e293b?style=for-the-badge&logo=eventbrite&logoColor=8b5cf6"/> | Co-organized AI Odyssey & Hawkthon @ UAI University |
+| <img src="https://img.shields.io/badge/-Event%20Organizer-1e293b?style=for-the-badge&logo=meetup&logoColor=8b5cf6"/> | Co-organized AI Odyssey & Hawkthon @ UAI University |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=2&width=100%"/>
 
