@@ -23,7 +23,7 @@
 
 ### Hey, I'm Mrudula
 
-I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic.
+I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic. 
 
 So I went and built systems that:
 
@@ -38,6 +38,22 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 ---
 
+## ![thinking](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6) How I Think About AI
+
+Most AI projects end at **"it works on test data."** Mine don't.
+
+I ask: *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
+
+That's why my projects are built around three questions:
+
+> ![q1](https://img.shields.io/badge/Does%20it%20work%3F-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8) &nbsp; Accuracy, benchmarks, real data
+>
+> ![q2](https://img.shields.io/badge/Does%20it%20explain%20itself%3F-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6) &nbsp; XAI, uncertainty estimation, human-in-the-loop
+>
+> ![q3](https://img.shields.io/badge/Does%20it%20fail%20gracefully%3F-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981) &nbsp; Edge cases, confidence thresholds, fallback logic
+
+---
+
 ## ![wip](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=hammer&logoColor=38bdf8) What I'm Building Now
 
 ### ![cv](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=opencv&logoColor=white) AI Rack Inspection System &nbsp;`@ RAMS Digital`
@@ -45,7 +61,7 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
 Warehouse racks fail silently — until they don't. I'm building the CV pipeline that catches it first.
 
-```
+```text
 INPUT  →  Drone-captured imagery of warehouse racks
 MODEL  →  YOLO-based multi-class object + defect detection
 OUTPUT →  [GREEN] Safe  |  [AMBER] Repair in 4 weeks  |  [RED] Unload immediately
@@ -66,7 +82,7 @@ Detects: `dents` · `bends` · `cracks` · `beam damage` · `protector issues` �
 
 Engineers used to spend days drafting. SALT takes a natural language requirement and spits out fully annotated, IS-code-compliant drawings.
 
-```
+```text
 "Design a 2 MLD WTP for 50,000 people"
          ↓  LLM parses intent
          ↓  Hydraulic sizing engine
@@ -90,7 +106,7 @@ OUTPUT: DXF · DWG · PDF · SVG
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ![mediscopic](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=pytorch&logoColor=white) MediScopic-BC
 **Novel Dual-Brain architecture for breast cancer screening**
@@ -101,12 +117,14 @@ Two separate neural networks — one diagnoses, one audits the diagnosis. Becaus
 - Brain-2: Reliability auditor → `Certain` / `Uncertain`
 - Human-in-the-loop by design
 
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![XAI](https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=flat-square&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ![codementor](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=git&logoColor=white) CodeMentor AI
 **AI developer coaching with a custom DevScore**
@@ -117,6 +135,8 @@ Not another linter. An AI coach that explains *why* your code is good or bad, sc
 - Transparent over black-box
 - Full-stack delivery
 
+<br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -124,23 +144,27 @@ Not another linter. An AI coach that explains *why* your code is good or bad, sc
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ![karmas](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=chatbot&logoColor=white) KARMAS – SIH 2025
 **Healthcare AI for migrant workers**
 
 Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
 
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ![research](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=researchgate&logoColor=white) AI for Sustainable Packaging
 **Research contribution**
 
 Literature review and data analysis on AI-driven sustainability solutions in packaging design.
+
+<br/>
 
 ![Research](https://img.shields.io/badge/Published%20Research-10B981?style=flat-square&logo=researchgate&logoColor=white)
 
@@ -152,28 +176,43 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 ## ![stack](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=stackshare&logoColor=38bdf8) My Stack
 
-```yaml
-languages:    [Python, JavaScript, TypeScript, SQL, HTML, CSS]
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-computer_vision:
-  models:     [YOLO, ResNet, CNNs]
-  libraries:  [OpenCV, PyTorch, Ultralytics]
+**Computer Vision & Models**<br/>
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![ResNet](https://img.shields.io/badge/ResNet-1e293b?style=flat-square&logo=pytorch&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-1e293b?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-generative_ai:
-  llms:       [Claude Opus, Gemini AI]
-  techniques: [Prompt Engineering, LLM Agents, RAG, Sentence Transformers]
+**Generative AI & LLMs**<br/>
+![Claude Opus](https://img.shields.io/badge/Claude%20Opus-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square&logoColor=white)
 
-full_stack:
-  backend:    [FastAPI, Flask, Node.js, Express]
-  frontend:   [React, Next.js, Tailwind CSS, Three.js]
-  data:       [NumPy, Pandas, Scikit-learn, SQLite]
+**Full-Stack & Data**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-engineering:
-  cad:        [ezdxf, DXF/DWG generation, CAD automation]
-  deployment: [ONNX, Edge AI, ONNX Runtime]
-
-tools:        [Git, GitHub, VS Code]
-```
+**Engineering & Tools**<br/>
+![CAD Automation](https://img.shields.io/badge/CAD%20Automation-06B6D4?style=flat-square&logo=autodesk&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -183,24 +222,6 @@ tools:        [Git, GitHub, VS Code]
   <!-- Public server temporarily down: <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/> -->
   <img height="160" src="./streak.svg" alt="GitHub Streak" />
 </div>
-
----
-
-## ![thinking](https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=brain&logoColor=8b5cf6) How I Think About AI
-
-Most AI projects end at **"it works on test data."**
-
-Mine don't.
-
-I ask: *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
-
-That's why my projects are built around three questions:
-
-> ![q1](https://img.shields.io/badge/Does%20it%20work%3F-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8) &nbsp; Accuracy, benchmarks, real data
->
-> ![q2](https://img.shields.io/badge/Does%20it%20explain%20itself%3F-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6) &nbsp; XAI, uncertainty estimation, human-in-the-loop
->
-> ![q3](https://img.shields.io/badge/Does%20it%20fail%20gracefully%3F-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981) &nbsp; Edge cases, confidence thresholds, fallback logic
 
 ---
 
@@ -225,7 +246,7 @@ That's why my projects are built around three questions:
 
 ![r1](https://img.shields.io/badge/AI%2FML%20Research%20Internships-1e293b?style=for-the-badge&logo=academia&logoColor=38bdf8)
 ![r2](https://img.shields.io/badge/Applied%20AI%20Roles-1e293b?style=for-the-badge&logo=robot-framework&logoColor=8b5cf6)
-![r3](https://img.shields.io/badge/Healthcare%20AI%20Collaborations-1e293b?style=for-the-badge&logo=redcross&logoColor=f43f5e)
+![r3](https://img.shields.io/badge/Healthcare%20AI%20Collaborations-1e293b?style=for-the-badge&logo=pytorch&logoColor=f43f5e)
 ![r4](https://img.shields.io/badge/Industrial%20CV%20Projects-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
 ![r5](https://img.shields.io/badge/Open%20Source%20AI-1e293b?style=for-the-badge&logo=github&logoColor=white)
 
