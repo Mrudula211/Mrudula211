@@ -214,7 +214,6 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 | <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=kaggle&logoColor=f59e0b" valign="middle"/> **Certificate of Appreciation** | AI Odyssey 1.0 (2025) |
 | <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=jupyter&logoColor=10b981" valign="middle"/> **Rural AI Outreach** | Led AI education sessions at government schools — SMART Project |
 | <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=researchgate&logoColor=38bdf8" valign="middle"/> **Research Contributor** | AI for Sustainable Packaging |
-| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=meetup&logoColor=8b5cf6" valign="middle"/> **Event Organizer** | Co-organized AI Odyssey & Hawkthon @ UAI University |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
@@ -232,9 +231,9 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 ## Open To Collaborations
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=googlescholar&logoColor=38bdf8" valign="middle"/> **AI/ML Research Internships** &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=android&logoColor=8b5cf6" valign="middle"/> **Applied AI Roles** &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8" valign="middle"/> **Industrial CV Projects**
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=googlescholar&logoColor=38bdf8" valign="middle"/> <b>AI/ML Research Internships</b> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=android&logoColor=8b5cf6" valign="middle"/> <b>Applied AI Roles</b> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8" valign="middle"/> <b>Industrial CV Projects</b>
 </div>
 
 <br/>
