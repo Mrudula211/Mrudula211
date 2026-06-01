@@ -55,28 +55,24 @@ My architecture is driven by three core pillars:
       <h3 align="center">AI Rack Inspection System</h3>
       <p align="center"><i>Drones fly, YOLO sees, humans stay safe.</i></p>
       <hr/>
-      <div align="justify">
       <b>Context:</b> Warehouse racks fail silently. I'm building a CV pipeline using Drones and YOLO to catch defects before they cause collapses.<br/><br/>
       <b>Detects:</b> <code>dents</code> <code>bends</code> <code>cracks</code> <code>beam damage</code> <code>protector issues</code> <code>arrangement faults</code><br/><br/>
-      </div>
       <div align="center">
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=python&logoColor=3776AB" valign="middle"/> **Python** &nbsp;
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=yolo&logoColor=00FFFF" valign="middle"/> **YOLO** &nbsp;
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=opencv&logoColor=5C3EE8" valign="middle"/> **OpenCV**
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">SALT (Structural AI Layout)</h3>
       <p align="center"><i>"Design a 2MLD water plant" → full CAD in minutes.</i></p>
       <hr/>
-      <div align="justify">
       <b>Context:</b> Engineers used to spend days drafting. SALT takes natural language requirements and synthesizes fully annotated, IS-code-compliant DXF drawings.<br/><br/>
       <b>Role:</b> CAD engine, DXF pipeline, hydraulic sizing, LLM synthesis.<br/><br/>
-      </div>
       <div align="center">
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=fastapi&logoColor=009688" valign="middle"/> **FastAPI** &nbsp;
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" valign="middle"/> **React** &nbsp;
-        <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=anthropic&logoColor=CC785C" valign="middle"/> **Claude**
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -93,9 +89,7 @@ My architecture is driven by three core pillars:
 ### <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=pytorch&logoColor=white" valign="middle"/> MediScopic-BC
 **Novel Dual-Brain architecture for breast cancer screening**
 
-<div align="justify">
-Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing <i>when not to trust the model</i> matters more than accuracy alone.
-</div>
+Two separate neural networks — one diagnoses, one audits the diagnosis. Because in healthcare, knowing *when not to trust the model* matters more than accuracy alone.
 
 - Brain-1: ResNet CNN → **84.84% val accuracy**
 - Brain-2: Reliability auditor → `Certain` / `Uncertain`
@@ -103,9 +97,9 @@ Two separate neural networks — one diagnoses, one audits the diagnosis. Becaus
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=python&logoColor=38bdf8" valign="middle"/> **Python** &nbsp;
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" valign="middle"/> **PyTorch** &nbsp;
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=read-the-docs&logoColor=8B5CF6" valign="middle"/> **Explainable AI**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-8B5CF6?style=for-the-badge&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -113,9 +107,7 @@ Two separate neural networks — one diagnoses, one audits the diagnosis. Becaus
 ### <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=git&logoColor=white" valign="middle"/> CodeMentor AI
 **AI developer coaching with a custom DevScore**
 
-<div align="justify">
-Not another linter. An AI coach that explains <i>why</i> your code is good or bad, scores it 0–100, and tells you how to grow.
-</div>
+Not another linter. An AI coach that explains *why* your code is good or bad, scores it 0–100, and tells you how to grow.
 
 - DevScore: readability + modularity + best practices
 - Transparent over black-box
@@ -123,9 +115,9 @@ Not another linter. An AI coach that explains <i>why</i> your code is good or ba
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB" valign="middle"/> **React** &nbsp;
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=fastapi&logoColor=009688" valign="middle"/> **FastAPI** &nbsp;
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=google&logoColor=4285F4" valign="middle"/> **Gemini AI**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </td>
 </tr>
@@ -135,14 +127,12 @@ Not another linter. An AI coach that explains <i>why</i> your code is good or ba
 ### <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=chatbot&logoColor=white" valign="middle"/> KARMAS – SIH 2025
 **Healthcare AI for migrant workers**
 
-<div align="justify">
 Context-aware conversational AI with session-persistent memory. Built for people who can't afford to repeat their medical history every visit.
-</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=python&logoColor=38bdf8" valign="middle"/> **Python** &nbsp;
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=googledocs&logoColor=0EA5E9" valign="middle"/> **Prompt Engineering**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -150,13 +140,11 @@ Context-aware conversational AI with session-persistent memory. Built for people
 ### <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=researchgate&logoColor=white" valign="middle"/> AI for Sustainable Packaging
 **Research contribution**
 
-<div align="justify">
 Literature review and data analysis on AI-driven sustainability solutions in packaging design.
-</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=researchgate&logoColor=10B981" valign="middle"/> **Published Research**
+<img src="https://img.shields.io/badge/Published%20Research-10B981?style=for-the-badge&logo=researchgate&logoColor=white"/>
 
 </td>
 </tr>
