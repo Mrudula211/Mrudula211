@@ -41,9 +41,9 @@ I'm at **RAMS Digital** right now, doing this for real infrastructure.
 > *Will this hold up when a doctor relies on it? When a warehouse worker's safety depends on it? When an engineer ships infrastructure with it?*
 
 My architecture is driven by three core pillars:
-1. <img src="https://img.shields.io/badge/Real--World%20Reliability-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8" valign="middle"/> Accuracy, benchmarks, real data.
-2. <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6" valign="middle"/> Human-in-the-loop, uncertainty estimation, transparency.
-3. <img src="https://img.shields.io/badge/Graceful%20Failure-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981" valign="middle"/> Edge cases, confidence thresholds, fallback logic.
+1. <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=checkmarx&logoColor=38bdf8" valign="middle"/> **Real-World Reliability:** Accuracy, benchmarks, real data.
+2. <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=read-the-docs&logoColor=8b5cf6" valign="middle"/> **Explainable AI (XAI):** Human-in-the-loop, uncertainty estimation, transparency.
+3. <img src="https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=shieldsdotio&logoColor=10b981" valign="middle"/> **Graceful Failure:** Edge cases, confidence thresholds, fallback logic.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
@@ -207,14 +207,14 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 
 | | |
 |---|---|
-| <img src="https://img.shields.io/badge/-Industrial%20CV-1e293b?style=for-the-badge&logo=opencv&logoColor=38bdf8"/> | Building production-grade rack inspection system at RAMS Digital |
-| <img src="https://img.shields.io/badge/-CAD%20Automation-1e293b?style=for-the-badge&logo=autodesk&logoColor=38bdf8"/> | Co-developing SALT — AI-to-engineering-drawing pipeline in production |
-| <img src="https://img.shields.io/badge/-Novel%20Architecture-1e293b?style=for-the-badge&logo=apachespark&logoColor=8b5cf6"/> | Invented Dual-Brain AI design for clinical reliability |
-| <img src="https://img.shields.io/badge/-SIH%202025-1e293b?style=for-the-badge&logo=hackthebox&logoColor=10b981"/> | Built KARMAS healthcare AI system |
-| <img src="https://img.shields.io/badge/-Certificate%20of%20Appreciation-1e293b?style=for-the-badge&logo=kaggle&logoColor=f59e0b"/> | AI Odyssey 1.0 (2025) |
-| <img src="https://img.shields.io/badge/-Rural%20AI%20Outreach-1e293b?style=for-the-badge&logo=jupyter&logoColor=10b981"/> | Led AI education sessions at government schools — SMART Project |
-| <img src="https://img.shields.io/badge/-Research%20Contributor-1e293b?style=for-the-badge&logo=researchgate&logoColor=38bdf8"/> | AI for Sustainable Packaging |
-| <img src="https://img.shields.io/badge/-Event%20Organizer-1e293b?style=for-the-badge&logo=meetup&logoColor=8b5cf6"/> | Co-organized AI Odyssey & Hawkthon @ UAI University |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=opencv&logoColor=38bdf8" valign="middle"/> **Industrial CV** | Building production-grade rack inspection system at RAMS Digital |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=autodesk&logoColor=38bdf8" valign="middle"/> **CAD Automation** | Co-developing SALT — AI-to-engineering-drawing pipeline in production |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=apachespark&logoColor=8b5cf6" valign="middle"/> **Novel Architecture** | Invented Dual-Brain AI design for clinical reliability |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=hackthebox&logoColor=10b981" valign="middle"/> **SIH 2025** | Built KARMAS healthcare AI system |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=kaggle&logoColor=f59e0b" valign="middle"/> **Certificate of Appreciation** | AI Odyssey 1.0 (2025) |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=jupyter&logoColor=10b981" valign="middle"/> **Rural AI Outreach** | Led AI education sessions at government schools — SMART Project |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=researchgate&logoColor=38bdf8" valign="middle"/> **Research Contributor** | AI for Sustainable Packaging |
+| <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=meetup&logoColor=8b5cf6" valign="middle"/> **Event Organizer** | Co-organized AI Odyssey & Hawkthon @ UAI University |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2&width=100%"/>
 
@@ -232,9 +232,9 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
 ## 🤝 Open To Collaborations
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%2FML%20Research%20Internships-1e293b?style=for-the-badge&logo=academia&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Applied%20AI%20Roles-1e293b?style=for-the-badge&logo=robot-framework&logoColor=8b5cf6"/>
-  <img src="https://img.shields.io/badge/Industrial%20CV%20Projects-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8"/>
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=googlescholar&logoColor=38bdf8" valign="middle"/> **AI/ML Research Internships** &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=android&logoColor=8b5cf6" valign="middle"/> **Applied AI Roles** &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1e293b?style=for-the-badge&logo=opencv&logoColor=5c3ee8" valign="middle"/> **Industrial CV Projects**
 </div>
 
 <br/>
