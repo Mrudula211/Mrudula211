@@ -181,7 +181,7 @@ tools:        [Git, GitHub, VS Code]
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mrudula211&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=8b5cf6&currStreakLabel=38bdf8"/>
+  <img height="160" src="./streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
