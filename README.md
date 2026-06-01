@@ -82,7 +82,7 @@ My architecture is driven by three core pillars:
 
 ## Past Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -121,6 +121,9 @@ Not another linter. An AI coach that explains *why* your code is good or bad, sc
 
 </td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
