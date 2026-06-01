@@ -27,10 +27,10 @@ I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom to
 
 So I went and built systems that:
 
-- ![factory](https://img.shields.io/badge/-Inspect%20warehouse%20racks-1e293b?style=flat-square&logo=apache-spark&logoColor=38bdf8) using drones + YOLO *(real deployment)*
-- ![cad](https://img.shields.io/badge/-Generate%20full%20CAD%20drawings-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) from plain English *(IS-code compliant)*
-- ![health](https://img.shields.io/badge/-Audit%20their%20own%20confidence-1e293b?style=flat-square&logo=red-cross&logoColor=38bdf8) before making medical diagnoses
-- ![code](https://img.shields.io/badge/-Mentor%20developers-1e293b?style=flat-square&logo=visual-studio-code&logoColor=38bdf8) with explainable code feedback
+- ![factory](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=apache-spark&logoColor=38bdf8) Inspect warehouse racks using drones + YOLO *(real deployment)*
+- ![cad](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=autodesk&logoColor=38bdf8) Generate full CAD drawings from plain English *(IS-code compliant)*
+- ![health](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=red-cross&logoColor=38bdf8) Audit their own confidence before making medical diagnoses
+- ![code](https://img.shields.io/badge/-%20-1e293b?style=flat-square&logo=visual-studio-code&logoColor=38bdf8) Mentor developers with explainable code feedback
 
 I'm at **RAMS Digital** right now, doing this for real infrastructure.
 
