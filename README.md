@@ -10,7 +10,7 @@
 
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/mrudula-g-92a394267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mrudula-gharat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mrudula211.github.io/Mrudula.dev-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:mrudulagharat0211@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br/><br/>
@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
 
-### Hey, I'm Mrudula
+### Hey, I'm Mrudula Gharat
 
 I'm a **sophomore AI/ML engineer** who got tired of AI being just a classroom topic. 
 
@@ -226,7 +226,7 @@ Literature review and data analysis on AI-driven sustainability solutions in pac
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrudula211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6" />
   <br/><br/>
   <!-- Public server temporarily down: <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=8"/> -->
-  <img height="160" src="./streak.svg" alt="GitHub Streak" />
+  <img height="160" src="./streak.svg" alt="GitHub Streak" alt="Mrudula Gharat - GitHub Contribution Streak" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%"/>
